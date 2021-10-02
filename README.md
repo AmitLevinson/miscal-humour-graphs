@@ -1,15 +1,18 @@
-# miscal-humour-graphs
-Not sure what's this is, something like miscellaneous humorist graphs:
+# miscal-humour-
 
-======
+## What's this nonsense?
 
-#### [After The Jew holidays](/after-the-holidays)
+I'm not sure what's this is, something like a collection humorist graphs I make and have no home (i.e., a relevant repository).
+
+---
+
+### [After The Jewish holidays](/after-the-holidays)
 
 ![](/after-the-holidays/holiday-plot.png)
 
 
 
 
-#### [Time for making a presentation](/time-for-presentation)
+### [Time for making a presentation](/time-for-presentation)
 
 ![](/time-for-presentation/time_to_make_presentations.jpg)
